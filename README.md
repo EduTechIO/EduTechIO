@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**EduTechIO/EduTechIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Edu, a Computer Engineer based in Spain with a degree from UCAM and a dual specialization in software engineering and IT.
 
-Here are some ideas to get you started:
+I love exploring new concepts in networking, development, and security, and I always build projects to see how they work under the hood
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my space where I share my progress, experiments, and the things I'm currently working on.
+
+---
+
+### Tools & Tech
+
+- Linux, Java, Python, and C (PL/SQL).
+- Cybersecurity tools: Kali, Burp Suite, Nmap, and Wireshark.
+- DevOps & Automation: Ansible, Git, and CI/CD pipelines.
+- Agile methodologies: Scrum, Kanban, XP, Jira, and Figma.
+- Networking: Solid foundation with CCNA certification.
+
+---
+
+### A Bit About Me
+
+- ☕ Fueled by good coffee and an obsession with Linux.
+- 👨‍💻 Officially designated as the 24/7 IT Support for my family.
+- 🥊 Hobbies: gym, boxing, mma, cinema, and video games.
+- 🚀 Always on the lookout for new and exciting side projects to build.
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/eduardo-roda-carrasco-65328323b/)!

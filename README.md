@@ -11,7 +11,7 @@ This is my space where I share my progress, experiments, and the things I'm curr
 ### Tools & Tech
 
 - Languages: Java, Python, and C, PL/SQL, HTML, CSS.
-- Operating Systems & CLI: Linux (Bash), Windows (PowerShell), macOS (Zsh).
+- Operating Systems: Linux, macOS, Windows. Experienced in terminal operations, text processing, and system administration.
 - Cybersecurity tools: Kali, Burp Suite, Nmap, and Wireshark.
 - DevOps & Automation: Ansible, Git, and CI/CD pipelines.
 - Agile methodologies: Scrum, Kanban, XP, Jira, and Figma.

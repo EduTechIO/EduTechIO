@@ -10,7 +10,7 @@ This is my space where I share my progress, experiments, and the things I'm curr
 
 ### Tools & Tech
 
-- Linux, Java, Python, and C, PL/SQL, HTML, CSS.
+- Languages: Java, Python, and C, PL/SQL, HTML, CSS.
 - Operating Systems & CLI: Linux (Bash), Windows (PowerShell), macOS (Zsh).
 - Cybersecurity tools: Kali, Burp Suite, Nmap, and Wireshark.
 - DevOps & Automation: Ansible, Git, and CI/CD pipelines.

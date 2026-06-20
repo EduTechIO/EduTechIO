@@ -23,7 +23,7 @@ This is my space where I share my progress, experiments, and the things I'm curr
 
 - ☕ Fueled by good coffee and an obsession with Linux.
 - 👨‍💻 Officially designated as the 24/7 IT Support for my family.
-- 🥊 Hobbies: gym, boxing, mma, cinema, and video games.
+- 🥊 Hobbies: gym, mma, cinema, and video games.
 - 🚀 Always on the lookout for new and exciting side projects to build.
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/eduardo-roda-carrasco-65328323b/)!
